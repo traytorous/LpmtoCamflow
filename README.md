@@ -3,8 +3,8 @@
 
 ### Authors Tray Keller and Austin Waddell
 
-CamFlow and the Linux Provenance Module (LPM) frame-
-work are both an excellent step in the right direction for whole-
+CamFlow and the Linux Provenance Module (LPM) frame-work 
+are both an excellent step in the right direction for whole-
 system provenance, but each have weaknesses. For LPM, the
 most significant downside is the difficulty in maintaining
 code across updates to the Linux kernel, as LPM had to dupli-
