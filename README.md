@@ -1,4 +1,4 @@
-# LPM functionality to Camflow
+# Camflow Network Provenance
 -----------------------------
 
 ### Authors Tray Keller and Austin Waddell
